@@ -1,0 +1,12 @@
+Name,Description,Software,Application Method,Status
+Laptop,Low-performance laptop 2g RAM 250g ROM No videocard,MintLinux,None,Waiting for tasks
+Laptop,Normal-performance 8g RAM 500g ROM No videocard,Windows 11,None,Waiting for tasks
+Laptop,Normal-performance 8g RAM 500g ROM No videocard,Windows 11,None,music
+Laptop,Normal-performance 16g RAM 500g ROM No videocard,Windows 11,None,Private work and use
+PC,No videocard 4g RAM 1tb ROM ,MIntLinux,This PC,in_use
+Raspberry Pi 4 model B,Single-board computer,Raspbian,Edge computing,Waiting for tasks
+m5cardputer, iot device with full size keyboard and wireless options,Custom firmware, pocket custom PC,Waiting for tasks
+m5stick Plus2,SmartWatch for developers,Custom firmware,pocket custom PC\watch,Waiting for tasks
+esp-wroom-32,Microcontroller,Custom firmware,IoT projects,Waiting for tasks
+esp32-c6+touch display,Microcontroller with display,Custom firmware,IoT projects,Waiting for tasks
+
