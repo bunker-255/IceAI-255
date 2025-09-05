@@ -1,6 +1,6 @@
-# AIexpert - AI for Autonomous Linux Server Management
+# Ice - AI for Autonomous Linux Server Management
 
-AIexpert is an advanced artificial intelligence system designed for autonomous and simplified Linux server management. The system provides comprehensive monitoring of security, functionality, and fault tolerance, allowing server management through simple natural language commands.
+Ice is an advanced artificial intelligence system designed for autonomous and simplified Linux server management. The system provides comprehensive monitoring of security, functionality, and fault tolerance, allowing server management through simple natural language commands.
 
 ## 🌟 Key Features
 
@@ -14,7 +14,7 @@ AIexpert is an advanced artificial intelligence system designed for autonomous a
 ## 🏗️ Project Architecture
 
 ```
-AIexpert/
+IceAI-255/
 ├── chat.py              # Interactive chat for server management
 ├── guard.py             # Security and monitoring system
 ├── launcher             # System startup script
@@ -70,7 +70,7 @@ Utilities for system operations:
 ```bash
 # Clone the repository
 git clone https://github.com/bunker-255/IceAI-255
-cd AIexpert
+cd Ice
 
 # Install dependencies
 pip install -r requirements.txt
@@ -251,4 +251,4 @@ For questions and support, please contact:
 
 ---
 
-**AIexpert** - Your intelligent assistant for Linux server management 🚀
+**Ice** - Your intelligent assistant for Linux server management 🚀
