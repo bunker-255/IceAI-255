@@ -1,0 +1,4 @@
+client_name,api_key,service,created_at,expires_at,notes
+Illya (bunker255),abcd1234efgh5678,OpenAI,2024-06-01,2025-06-01,My personal key
+Illya (bunker255),ijkl9012mnop3456,GoogleCloud,2024-05-15,2025-05-15,Client A main key
+Illya (bunker255),qrst7890uvwx1234,Azure,2024-04-20,2025-04-20,Client B backup key

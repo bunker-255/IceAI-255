@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Software - Latest News</title>
+<link>https://www.prlog.org/news/ind/software/</link>
+<description>Software - Latest News (Press Releases) - Read news before it's news</description>
+<language>en-us</language>
+<ttl>1800</ttl>
+<item><title>CazVid Ranks No. 104 on the 2025 Inc. 5000 List of America's Fastest-Growing Private Companies</title>
+<link>https://www.prlog.org/13092982-cazvid-ranks-no-104-on-the-2025-inc-5000-list-of-americas-fastest-growing-private-companies.html</link>
+<description>With Three-Year Revenue Growth of 3,309%, This Marks CazVid's 1st Time on the List</description><pubDate>Tue, 12 Aug 2025 16:16:22 GMT</pubDate></item>
+<item><title>Minneapolis Manufacturing Company Offers No-Cost CNC Bootcamp of 2025 as First Session Fills</title>
+<link>https://www.prlog.org/13089530-minneapolis-manufacturing-company-offers-no-cost-cnc-bootcamp-of-2025-as-first-session-fills.html</link>
+<description>Two-Day Hands-On Training at University of St. Thomas Caps Third Wave Systems' Machining AdvantEdge Program – Only One Session Remains Open for Registration</description><pubDate>Thu, 24 Jul 2025 14:30:32 GMT</pubDate></item>
+<item><title>Axialis IconVectors: The Essential Lightweight SVG Icon Editor for Developers and UI Designers</title>
+<link>https://www.prlog.org/13085474-axialis-iconvectors-the-essential-lightweight-svg-icon-editor-for-developers-and-ui-designers.html</link>
+<description>Axialis Software introduces Axialis IconVectors 1.0, a lightweight and intuitive SVG icon editor tailored for developers. Designed specifically for efficient, pixel-perfect icon creation, it simplifies icon vector editing and asset management.</description><pubDate>Wed, 02 Jul 2025 14:05:44 GMT</pubDate></item>
+<item><title>Authentise includes Autodesk Fusion in New Bundle to Accelerate End-to-End Digital Manufacturing</title>
+<link>https://www.prlog.org/13081658-authentise-includes-autodesk-fusion-in-new-bundle-to-accelerate-end-to-end-digital-manufacturing.html</link>
+<description>Best-in-Class Design and Execution Tools Now Available in One Seamless, Affordable Package</description><pubDate>Thu, 26 Jun 2025 08:00:00 GMT</pubDate></item>
+<item><title>TicketMeta and TechStorm Forge Strategic Partnership to Revolutionize Esports Event Experiences</title>
+<link>https://www.prlog.org/13070651-ticketmeta-and-techstorm-forge-strategic-partnership-to-revolutionize-esports-event-experiences.html</link>
+<description>TicketMeta, a blockchain-based ticketing software offering white-label technology designed to not only facilitate event access but also enhance fan engagement trough virtual interaction, and TechStorm, a dynamic media distribution platform, have...</description><pubDate>Tue, 08 Apr 2025 17:23:48 GMT</pubDate></item>
+<item><title>Marketgoo And Mijndomein Release New Wordpress Seo Offering</title>
+<link>https://www.prlog.org/13041528-marketgoo-and-mijndomein-release-new-wordpress-seo-offering.html</link>
+<description>New Mijndomein WordPress hosting plans now include marketgoo's WP Free SEO plugin, giving users easy tools to improve site visibility from day one. Customers can also upgrade to WP Pro for advanced features like AI-powered optimization &amp; more.</description><pubDate>Thu, 03 Oct 2024 09:16:41 GMT</pubDate></item>
+</channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Technology - Latest News</title>
+<link>https://www.prlog.org/news/ind/technology/</link>
+<description>Technology - Latest News (Press Releases) - Read news before it's news</description>
+<language>en-us</language>
+<ttl>1800</ttl>
+<item><title>L-Tron to attend upcoming Rocky Mountain IAI Educational Conference in Glenwood Springs, CO</title>
+<link>https://www.prlog.org/13096153-tron-to-attend-upcoming-rocky-mountain-iai-educational-conference-in-glenwood-springs-co.html</link>
+<description>The L-Tron team will attend the Rocky Mountain Division of the IAI (International Association for Identification) Educational Conference at the Hotel Colorado in Glenwood Springs from September 9-11, 2025.</description><pubDate>Thu, 28 Aug 2025 19:08:02 GMT</pubDate></item>
+<item><title>Apellix launches NDAA-compliant U.S.-made power wash drone, now deployed at University of Floridal</title>
+<link>https://www.prlog.org/13096133-apellix-launches-ndaa-compliant-us-made-power-wash-drone-now-deployed-at-university-of-floridal.html</link>
+<description>Apellix, a leader in aerial robotic systems for mission driven commercial, industrial, and government applications, proudly announces it has delivered its first cohort of Apellix Blue Power Wash Drones—each meticulously designed, built, and tested in...</description><pubDate>Thu, 28 Aug 2025 17:20:04 GMT</pubDate></item>
+<item><title>Prospect By Buildout Recipient Of 2025 PropTech Breakthrough &quot;CRE Data Innovation Award&quot;</title>
+<link>https://www.prlog.org/13093210-prospect-by-buildout-recipient-of-2025-proptech-breakthrough-cre-data-innovation-award.html</link>
+<description>Prestigious Annual Awards Program Recognizes Breakthrough Innovation in the Global Real Estate Technology Industry</description><pubDate>Wed, 13 Aug 2025 14:23:54 GMT</pubDate></item>
+<item><title>L-Tron to Attend and Present at the 2025 IAI Conference in Orlando, FL</title>
+<link>https://www.prlog.org/13091422-tron-to-attend-and-present-at-the-2025-iai-conference-in-orlando-fl.html</link>
+<description>The L-Tron team will be exhibiting and presenting at the 109th International Association for Identification (IAI) Educational Conference at The Rosen Shingle Creek Resort in Orlando, FL.</description><pubDate>Tue, 05 Aug 2025 13:06:50 GMT</pubDate></item>
+<item><title>DataCurve and Swiirl Announce Strategic Partnership</title>
+<link>https://www.prlog.org/13090369-datacurve-and-swiirl-announce-strategic-partnership.html</link>
+<description>Redefining Fan Engagement and Measurable ROI for Sports, Media, and Entertainment</description><pubDate>Wed, 30 Jul 2025 13:00:00 GMT</pubDate></item>
+<item><title>Project Management Institute San Francisco and TalentCheetah Inc. Announce New Strategic Partnership</title>
+<link>https://www.prlog.org/13080764-project-management-institute-san-francisco-and-talentcheetah-inc-announce-new-strategic-partnership.html</link>
+<description>Accelerating hiring of local Project and Product Managers for San Francisco and surrounding Bay Area Companies</description><pubDate>Tue, 08 Jul 2025 14:00:00 GMT</pubDate></item>
+<item><title>SenzMate's DevicePulse.AI Now Available in Microsoft Azure Marketplace</title>
+<link>https://www.prlog.org/13083885-senzmates-devicepulseai-now-available-in-microsoft-azure-marketplace.html</link>
+<description>Microsoft Azure customers worldwide now gain access to SenzMate's Device Pulse.AI to take advantage of the scalability, reliability, and agility of Azure to drive application development and shape business strategies.</description><pubDate>Fri, 04 Jul 2025 06:51:30 GMT</pubDate></item>
+<item><title>L-Tron to exhibit and attend the NASRO School Safety Conference in Grapevine, TX</title>
+<link>https://www.prlog.org/13085045-tron-to-exhibit-and-attend-the-nasro-school-safety-conference-in-grapevine-tx.html</link>
+<description>L-Tron will attend the 35th Annual NASRO School Safety Conference at the Gaylord Texan Convention Center.</description><pubDate>Mon, 30 Jun 2025 21:16:43 GMT</pubDate></item>
+<item><title>L-Tron to Exhibit and Attend the 50th Annual Traffic Records Forum in Boston, MA</title>
+<link>https://www.prlog.org/13084416-tron-to-exhibit-and-attend-the-50th-annual-traffic-records-forum-in-boston-ma.html</link>
+<description>L-Tron will be attending and exhibiting at the 50th annual ATSIP (Association of Transportation Safety Information Professionals) Traffic Records Forum at the Boston Marriott Copley Place from July 6th - 8th 2025.</description><pubDate>Thu, 26 Jun 2025 12:31:26 GMT</pubDate></item>
+<item><title>L-Tron's OSCR360 Team Member, Andrew McNeill, Published in Fire Scene Magazine</title>
+<link>https://www.prlog.org/13084065-trons-oscr360-team-member-andrew-mcneill-published-in-fire-scene-magazine.html</link>
+<description>L-Tron is pleased to share that the company's Director of Forensic Photography, Andrew McNeill, had an article published in Fire Scene Magazine.</description><pubDate>Tue, 24 Jun 2025 23:07:10 GMT</pubDate></item>
+</channel>
+</rss>

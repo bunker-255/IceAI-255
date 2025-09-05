@@ -1,0 +1,1 @@
+Security fix applied: Corrected permissions for /etc/sudoers.d to drwxr-x---
